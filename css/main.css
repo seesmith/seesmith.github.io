@@ -1,9 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-size: 12px;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Calibri',sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,8 +21,20 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 20px;
+    font-family:'Calibri',sans-serif;
+}
+h2 {
+    font-size: 18px;
+    font-family:'Calibri',sans-serif;
+}
+h3 {
+    font-size: 16px;
+    font-family:'Calibri',sans-serif;
+}
+h4 {
+    font-size: 14px;
+    font-family:'Calibri',sans-serif;
 }
 p {
     font-size: 1.5em;
