@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-size: 12px;
+    font-family:'Calibri',sans-serif;
 }
 nav ul, footer ul {
     font-family:'Calibri',sans-serif;
