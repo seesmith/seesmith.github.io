@@ -38,11 +38,7 @@ h4 {
     font-size: 14px;
     font-family:'Calibri',sans-serif;
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 12px;
@@ -65,7 +61,7 @@ ul.dashed > li:before {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 12px;
 }
 
 ul.posts li {
