@@ -52,6 +52,8 @@ ul {
 }
 ul.dashed {
   list-style-type: none;
+  font-size: 12px;
+  font-family:'Calibri',sans-serif;
 }
 ul.dashed > li {
   text-indent: -5px;
