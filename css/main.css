@@ -47,6 +47,19 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: 12px;
 }
+ul {
+  margin: 0;
+}
+ul.dashed {
+  list-style-type: none;
+}
+ul.dashed > li {
+  text-indent: -5px;
+}
+ul.dashed > li:before {
+  content: "-";
+  text-indent: -5px;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
