@@ -1,2 +1,5 @@
 name: Claire Knowles
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
