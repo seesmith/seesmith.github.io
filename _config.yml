@@ -3,3 +3,5 @@ markdown: kramdown
 
 plugins:
   - jekyll-sitemap
+
+theme: jekyll-theme-slate
